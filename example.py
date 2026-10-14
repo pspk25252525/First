@@ -11,5 +11,8 @@
 # git diff --staged <file name> (after add it shows difference between old commit and staged)
 # git rm <file name> (remove the file)
 # git reset <file name> or git restore --staged <file name> (move file from staged to unstaged)
-# latest commit
-# new commit
+# git branch (it shows all branches)
+# git switch <branch name> (it switches branch)
+# git -d <branch name> (it deletes the branch or "-D" use delete branch forcefully)
+# git tag <version> (it stores the version of the project)
+# new tag added
