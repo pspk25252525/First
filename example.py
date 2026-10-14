@@ -3,10 +3,9 @@
 # git add <file name>
 # git commit -m "message" (it saves the added files)
 
-# second command = git remote add origin "repository url" (connect your github repo)
-# check connected or not (git remote -v)
-# Third command = git branch --show-current (it shows current branch)
+# git remote add origin "repository url" (connect your github repo)
+# git remote -v
+# git branch --show-current (it shows current branch)
 # git push origin master
-
-
-# git added new line
+# git diff <file name> (it shows difference between latest file and commited file)
+# git diff --staged <file name> (after add it shows difference between old commit and staged)
