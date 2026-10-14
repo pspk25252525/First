@@ -12,3 +12,4 @@
 # git rm <file name> (remove the file)
 # git reset <file name> or git restore --staged <file name> (move file from staged to unstaged)
 # latest commit
+# new commit
