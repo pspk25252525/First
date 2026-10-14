@@ -1,0 +1,1 @@
+# first command = git init (to make normal repository to git repository)
