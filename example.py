@@ -9,3 +9,6 @@
 # git push origin master
 # git diff <file name> (it shows difference between latest file and commited file)
 # git diff --staged <file name> (after add it shows difference between old commit and staged)
+# git rm <file name> (remove the file)
+# git reset <file name> or git restore --staged <file name> (move file from staged to unstaged)
+# latest commit
