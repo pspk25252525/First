@@ -6,4 +6,7 @@
 # second command = git remote add origin "repository url" (connect your github repo)
 # check connected or not (git remote -v)
 # Third command = git branch --show-current (it shows current branch)
-# git push origin origin master
+# git push origin master
+
+
+# git added new line
